@@ -52,7 +52,7 @@ nav-menu: true
 		<p>I worked as a UI manager in the Ticorporate course at JAMK in a client project for Skillwell. The project lasted about half a year and during that time I learned the basic structure of project working. I cannot provide pictures of the project due to a confidentiality agreement.</p>
 		<p>I worked on the project, first with Figma to build a wireframe model and later a prototype of the application. In addition to this, I worked on the visualisation of the application itself and partly as an end-to-end tester.</p>
 	</div>
-	<!-- 
+<!--
 	<div class="6u$ 12u$(small)">
 		<h3>asdf</h3>
 		<p>asdf</p>

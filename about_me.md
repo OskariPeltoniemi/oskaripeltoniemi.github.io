@@ -9,23 +9,29 @@ nav-menu: true
 <!-- Main -->
 <div id="main">
 
-<!-- One -->
-<section id="one">
-	<div class="inner">
-		<header class="major">
-			<h2>Who am I?</h2>
-		</header>
-		<ul>
-			<li>Oskari Peltoniemi</li>
-			<li>24 years old</li>
-			<li>From Jyväskylä</li>
-			<li>Student at University of applied sciences in Jyväskylä</li>
-		</ul>
-	</div>
-</section>
-
 <!-- Two -->
+
 <section id="two" class="spotlights">
+	<section>
+		<a class="image">
+			<img src="{% link assets/images/me.jpg %}" alt="" data-position="top center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Who am I?</h3>
+				</header>
+				<ul>
+					<li>Oskari Peltoniemi</li>
+					<li>24 years old</li>
+					<li>From Jyväskylä</li>
+					<li>Student at University of applied sciences in Jyväskylä</li>
+				</ul>
+				<p>I decided to study the field because I have always been attracted to problem solving. I also want to be involved in creating something that has a technological impact on people's everyday lives, so this field creates plenty of opportunities for that.</p>
+				<p>I also love spending time in nature (as you can see from my photo), as it relaxes and refreshes me and motivates me to do things that require inspiration.</p>
+			</div>
+		</div>
+	</section>
 	<section>
 		<a class="image">
 			<img src="{% link assets/images/lohis.png %}" alt="" data-position="center center" />
@@ -54,14 +60,14 @@ nav-menu: true
 	</section>
 	<section>
 		<a class="image">
-			<img src="{% link assets/images/dnd.jpg %}" alt="" data-position="25% 25%" />
+			<img src="{% link assets/images/dice.jpg %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
 					<h3>Dungeons & Dragons</h3>
 				</header>
-				<p>I’m passionate about creativity and also storytelling so D&D tabletop roleplaying game has been quite a nice way to explore through both of these aspects. So far I have only been involved as a player, but it is likely that one day I will run my own campaign.</p>
+				<p>I’m passionate about creativity and also storytelling so D&D tabletop roleplaying game has been quite a nice way to explore through both of these aspects. The most interesting things about D&D are the dialogue and role-playing with your own character, and the endless possibilities. That's when you get to unleash your own creativity. So far I have only been involved as a player, but it is likely that one day I will run my own campaign.</p>
 			</div>
 		</div>
 	</section>
