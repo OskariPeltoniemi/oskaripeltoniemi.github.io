@@ -45,6 +45,25 @@ nav-menu: true
 	</div>
 </div>
 
+<h2 id="content">Plant app</h2>
+<div class="6u 12u$(small)">
+	<p>Mobile app prototype to make plant care easier. Made with Figma.</p>
+</div>
+
+<div class="box alt">
+	<div class="row 50% uniform">
+		<div class="3u"><span class="image fit"><img src="{% link assets/images/pic01.png %}" alt="" /></span></div>
+		<div class="3u"><span class="image fit"><img src="{% link assets/images/pic02.png %}" alt="" /></span></div>
+		<div class="3u"><span class="image fit"><img src="{% link assets/images/pic03.png %}" alt="" /></span></div>
+	</div>
+</div>
+
+<h2 id="content">Noteless</h2>
+<div class="6u 12u$(small)">
+	<p>Noteless is an application made with Svelte, which was the final project of the Frontend Basics course. The application allows the user to write things down in memory. Each note created can be marked as completed or deleted.</p>
+</div>
+<a href="https://github.com/OskariPeltoniemi/Noteless">Noteless GitHub</a>
+
 <h2 id="content">Skillwell</h2>
 
 <div class="row">
