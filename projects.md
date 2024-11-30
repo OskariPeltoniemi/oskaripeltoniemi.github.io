@@ -62,13 +62,20 @@ nav-menu: true
 <div class="6u 12u$(small)">
 	<p>Noteless is an application made with Svelte, which was the final project of the Frontend Basics course. The application allows the user to write things down in memory. Each note created can be marked as completed or deleted.</p>
 </div>
+
+<div class="box alt">
+	<div class="row 50% uniform">
+		<div class="5u"><span class="image fit"><img src="{% link assets/images/noteless.png %}" alt="" /></span></div>
+	</div>
+</div>
+
 <a href="https://github.com/OskariPeltoniemi/Noteless">Noteless GitHub</a>
 
 <h2 id="content">Skillwell</h2>
 
 <div class="row">
 	<div class="6u 12u$(small)">
-		<p>I worked as a UI manager in the Ticorporate course at JAMK in a client project for Skillwell. The project lasted about half a year and during that time I learned the basic structure of project working. I cannot provide pictures of the project due to a confidentiality agreement.</p>
+		<p>I worked as a UI manager in the Ticorporate course at JAMK in a client project for Skillwell company. The project lasted about half a year and during that time I learned the basic structure of project working. I cannot provide pictures of the project due to a confidentiality agreement.</p>
 		<p>I worked on the project, first with Figma to build a wireframe model and later a prototype of the application. In addition to this, I worked on the visualisation of the application itself and partly as an end-to-end tester.</p>
 	</div>
 <!--
