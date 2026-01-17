@@ -23,9 +23,9 @@ nav-menu: true
 				</header>
 				<ul>
 					<li>Oskari Peltoniemi</li>
-					<li>24 years old</li>
+					<li>25 years old</li>
 					<li>From Jyväskylä</li>
-					<li>Student at University of applied sciences in Jyväskylä</li>
+					<li>Graduated from University of applied sciences in Jyväskylä</li>
 				</ul>
 				<p>I decided to study the field because I have always been attracted to problem solving. I also want to be involved in creating something that has a technological impact on people's everyday lives, so this field creates plenty of opportunities for that.</p>
 				<p>I also love spending time in nature (as you can see from my photo), as it relaxes and refreshes me and motivates me to do things that require inspiration.</p>
