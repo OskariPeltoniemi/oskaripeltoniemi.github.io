@@ -31,12 +31,12 @@ nav-menu: true
 
 <div class="row">
 	<div class="4u 12u$(medium)">
-		<h3>AWS</h3>
-		<p>I am interested in the AWS environment and the possibilities it brings. During my studies at JAMK I have been introduced to many of the tools offered by AWS and my goal is to increase my AWS knowledge.</p>
+		<h3>UI/UX</h3>
+		<p>I am highly interested in UI/UX design and they are partly related to my artistic hobbies. I consider them to be my number one strength. Desiging is natural to me.</p>
 	</div>
 	<div class="4u 12u$(medium)">
-		<h3>UI/UX</h3>
-		<p>I am also interested in UI/UX design and they are partly related to my artistic hobbies. I consider them to be my strengths.</p>
+		<h3>AWS</h3>
+		<p>I am also interested in the AWS environment and the possibilities it brings. During my studies at JAMK I have been introduced to many of the tools offered by AWS and my goal is to increase my AWS knowledge.</p>
 	</div>
 	<div class="4u$ 12u$(medium)">
 		<h3>Coding languages</h3>
