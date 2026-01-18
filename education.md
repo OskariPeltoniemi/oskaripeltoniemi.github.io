@@ -62,9 +62,9 @@ nav-menu: true
 <!-- Content -->
 <h2 id="content">Schools</h2>
 
-<h3 id="content">2021 - (2025). Bachelor of business administration, University of applied sciences in Jyväskylä</h3>
+<h3 id="content">2021 - 2025. Bachelor of business administration, University of applied sciences in Jyväskylä</h3>
 <div class="6u 12u$(small)">
-	<p>Developed a strong foundation in UI/UX design and AWS, with hands-on projects with Skillwell.</p>
+	<p>Developed a strong foundation in UI/UX design and AWS, with hands-on projects with Skillwell and internship at Sake Yhtiöt Oy.</p>
 </div>
 
 <hr>
