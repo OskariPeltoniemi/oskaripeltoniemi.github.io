@@ -14,7 +14,7 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a class="image">
-			<img src="{% link assets/images/me.jpg %}" alt="" data-position="top center" />
+			<img src="{% link assets/images/me_new.jpg %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -34,7 +34,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a class="image">
-			<img src="{% link assets/images/lohis.png %}" alt="" data-position="center center" />
+			<img src="{% link assets/images/kiz.png %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
